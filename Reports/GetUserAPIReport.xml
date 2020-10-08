@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="APIFramework" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.Options.TestRunner" time="12.731">
+    <testsuite name="Feature: Validating get user api" time="12.731">
+      <testcase name="Verify to get user list and validate the response" classname="Validating get user api" time="8.0"/>
+      <testcase name="Verify to get single user and validate the response" classname="Validating get user api" time="1.31"/>
+      <testcase name="Verify to get single user and validate the response" classname="Validating get user api" time="1.143"/>
+      <testcase name="Verify to get single user with invalid userID" classname="Validating get user api" time="1.102"/>
+      <testcase name="Verify to get user list with given delay" classname="Validating get user api" time="1.175"/>
+    </testsuite>
+  </testsuite>
+</testrun>

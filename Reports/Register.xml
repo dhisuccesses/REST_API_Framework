@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="APIFramework" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.Options.TestRunner" time="9.062">
+    <testsuite name="Feature: Validating user registration api" time="9.062">
+      <testcase name="Verify to register the user and validating the response status code" classname="Validating user registration api" time="7.299"/>
+      <testcase name="Try to register the user without pasword" classname="Validating user registration api" time="1.763"/>
+    </testsuite>
+  </testsuite>
+</testrun>

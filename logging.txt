@@ -1,0 +1,249 @@
+Request method:	POST
+Request URI:	https://reqres.in/api/users?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "nico",
+    "job": "leader",
+    "email": null,
+    "password": null
+}
+HTTP/1.1 201 Created
+Date: Wed, 07 Oct 2020 17:48:27 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Set-Cookie: __cfduid=d0fa185c1ec09b8b072feef1f6ae7e7521602092907; expires=Fri, 06-Nov-20 17:48:27 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"6d-fMlhQhOtjfKVDEtcnbr9x6mHB0I"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 05a5c6d3520000de0d311f2200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?lkg-colo=215&lkg-time=1602092908"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 5de973feecccde0d-BOM
+
+{
+    "name": "nico",
+    "job": "leader",
+    "email": null,
+    "password": null,
+    "id": "548",
+    "createdAt": "2020-10-07T17:48:27.707Z"
+}
+Request method:	POST
+Request URI:	https://reqres.in/api/users?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "mike",
+    "job": "Tester",
+    "email": null,
+    "password": null
+}
+HTTP/1.1 201 Created
+Date: Wed, 07 Oct 2020 17:48:29 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Set-Cookie: __cfduid=dc9319d7d594d4ae6a241fb437bc704fc1602092909; expires=Fri, 06-Nov-20 17:48:29 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"6d-8LsQV/8xwIJe83OYgmRr3RJtCdU"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 05a5c6dba30000de6eab878200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?lkg-colo=215&lkg-time=1602092910"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 5de9740c3ec6de6e-BOM
+
+{
+    "name": "mike",
+    "job": "Tester",
+    "email": null,
+    "password": null,
+    "id": "557",
+    "createdAt": "2020-10-07T17:48:29.698Z"
+}
+Request method:	POST
+Request URI:	https://reqres.in/api/users?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "carol",
+    "job": "Dev",
+    "email": null,
+    "password": null
+}
+HTTP/1.1 201 Created
+Date: Wed, 07 Oct 2020 17:48:30 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 107
+Connection: keep-alive
+Set-Cookie: __cfduid=d80daf022f728ea80716a97949cad5b0d1602092910; expires=Fri, 06-Nov-20 17:48:30 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"6b-dqoAv3k6WwDpQRNf7F/yDtfPf7c"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 05a5c6df560000de25ac21c200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?lkg-colo=215&lkg-time=1602092911"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 5de974122b54de25-BOM
+
+{
+    "name": "carol",
+    "job": "Dev",
+    "email": null,
+    "password": null,
+    "id": "945",
+    "createdAt": "2020-10-07T17:48:30.633Z"
+}
+Request method:	PUT
+Request URI:	https://reqres.in/api/users/353?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "dhinesh2",
+    "job": "leader1",
+    "email": null,
+    "password": null
+}
+HTTP/1.1 200 OK
+Date: Wed, 07 Oct 2020 17:48:31 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d8a9fa7aa3f54a6f7a9bce023f9f4b3851602092911; expires=Fri, 06-Nov-20 17:48:31 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"67-Ft7DRIHVp5WDwlGuUSgwurbX5Wk"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 05a5c6e32a0000de42f72ad200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?lkg-colo=215&lkg-time=1602092912"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 5de974184cc5de42-BOM
+Content-Encoding: gzip
+
+{
+    "name": "dhinesh2",
+    "job": "leader1",
+    "email": null,
+    "password": null,
+    "updatedAt": "2020-10-07T17:48:31.602Z"
+}
+Request method:	PATCH
+Request URI:	https://reqres.in/api/users/353?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "dhinesh3",
+    "job": "leader2",
+    "email": null,
+    "password": null
+}
+HTTP/1.1 200 OK
+Date: Wed, 07 Oct 2020 17:48:32 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d264af29ef53f8f0bd0cd777ecc23f66d1602092912; expires=Fri, 06-Nov-20 17:48:32 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"67-oZCXjv3Qta1fDWvx0LyTJUfu2+k"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 05a5c6e6df0000de52c0bfe200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?lkg-colo=215&lkg-time=1602092913"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 5de9741e3cb0de52-BOM
+Content-Encoding: gzip
+
+{
+    "name": "dhinesh3",
+    "job": "leader2",
+    "email": null,
+    "password": null,
+    "updatedAt": "2020-10-07T17:48:32.565Z"
+}
+Request method:	DELETE
+Request URI:	https://reqres.in/api/users/353?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 204 No Content
+Date: Wed, 07 Oct 2020 17:48:33 GMT
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: __cfduid=d67271b6de7acbee043612797b7fc97ea1602092913; expires=Fri, 06-Nov-20 17:48:33 GMT; path=/; domain=.reqres.in; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+cf-request-id: 05a5c6ea6e0000de295a216200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?lkg-colo=215&lkg-time=1602092914"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 5de97423e998de29-BOM

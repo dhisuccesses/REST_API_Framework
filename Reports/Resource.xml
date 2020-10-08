@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="APIFramework" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.Options.TestRunner" time="10.857">
+    <testsuite name="Feature: Validating get resource api" time="10.857">
+      <testcase name="Verify to get resource list and validate the response" classname="Validating get resource api" time="8.18"/>
+      <testcase name="Verify to get single resource and validate the response" classname="Validating get resource api" time="0.845"/>
+      <testcase name="Verify to get single resource and validate the response" classname="Validating get resource api" time="0.833"/>
+      <testcase name="Try to get single resource with invalid userID" classname="Validating get resource api" time="0.999"/>
+    </testsuite>
+  </testsuite>
+</testrun>

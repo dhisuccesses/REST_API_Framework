@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="APIFramework" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.Options.TestRunner" time="14.041">
+    <testsuite name="Feature: Validating create, update and delete user api" time="14.041">
+      <testcase name="Verify to create user and validating the response" classname="Validating create, update and delete user api" time="8.373"/>
+      <testcase name="Verify to create user and validating the response" classname="Validating create, update and delete user api" time="0.992"/>
+      <testcase name="Verify to create user and validating the response" classname="Validating create, update and delete user api" time="1.104"/>
+      <testcase name="Verify to update user and validating the response" classname="Validating create, update and delete user api" time="1.162"/>
+      <testcase name="Verify to update user and validating the response" classname="Validating create, update and delete user api" time="1.295"/>
+      <testcase name="Verify to delete the user and validating the status code" classname="Validating create, update and delete user api" time="1.115"/>
+    </testsuite>
+  </testsuite>
+</testrun>
